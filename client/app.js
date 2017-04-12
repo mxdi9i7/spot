@@ -5,7 +5,7 @@ class App extends Component {
 	render() {
 		return (	
 			<div>
-				React is working!
+				React is working!!!
 			</div>
 		)
 	}
